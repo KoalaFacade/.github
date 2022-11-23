@@ -1,7 +1,7 @@
 ![Koalagrammer Logo](https://i.ibb.co/Y0RHMfX/Logo-Koalagrammer-banner.png)
 
-### About Koalagrammer
+### About KoalaFacade
 
 ----
-> Koalagrammer crafts web, boilerplate and package in the laravel ecosystem.
+> KoalaFacade crafts web, boilerplate and package in the laravel ecosystem.
 
