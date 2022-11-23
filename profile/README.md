@@ -1,4 +1,4 @@
-![Koalagrammer Logo](https://i.ibb.co/Y0RHMfX/Logo-Koalagrammer-banner.png)
+![Koalagrammer Logo](https://i.ibb.co/CvpWWXv/Logo-Koalagrammer-banner.png)
 
 ### About KoalaFacade
 
